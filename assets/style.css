@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: auto; 
+    background-color: #f4f7fa;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    margin-top: auto; 
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #343a40; 
+    color: white;
+    text-align: center;
+}
